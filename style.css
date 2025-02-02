@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+  
+  .section-1 {
+    height: 50vh;
+    background-image: url(./pult.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+  }
+  
+  .card {
+    width: 290px;
+    height: 302px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+      rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
+      rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  }
+  
+  .cards {
+    display: flex;
+    gap: 40px;
+    justify-content: space-between;
+  }
+  
+  h2 {
+    text-align: center;
+    margin: 30px;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58.09px;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+  }
+  h3{
+    width: 178px;
+height: 44px;
+top: 682px;
+left: 56px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 18px;
+font-weight: 700;
+line-height: 21.78px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+margin-left: 70px;
+font-size: 25px;  }
+
+h4{
+    font-size: 20px;
+margin-left: 70px;
+margin-top: 50px;
+}
+.ww{
+    color: green;
+    
+}
+header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+background-color: black;
+}
+ul{
+  list-style: none;
+  display: flex;
+  gap: 50px;
+}
+a{
+  text-decoration: none;
+  color: white;
+
+}
+h1{
+  width: 277px;
+height: 96px;
+top: 115px;
+left: 45px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 40px;
+font-weight: 700;
+line-height: 48.41px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: white;
+}
+button{
+  width: 109px;
+height: 55px;
+top: 300px;
+left: 45px;
+gap: 0px;
+opacity: 0px;
+background-color: green;
+margin-top: 200px;
+
+}
+input{
+  width: 300px;
+height: 50px;
+top: 30px;
+left: 1016px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+font-size: 30px;
+}
+.wwww{
+  margin-top: 100px;
+  margin-left: 300px;
+}
+.q{
+  margin-left: 200px;
+}
